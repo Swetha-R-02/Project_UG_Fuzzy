@@ -5,5 +5,6 @@ The project aims  to analyze the factors to inculcate happiness index in adolesc
 * Chapter 1: Contains the basic definition and examples of Fuzzy Cognitive Maps.
 * Chapter 2: Consists algorithm of FCM and problem description.
 * Chapter 3: Deals with the factors for inculcating the happiness index in adolescents and the Implementation of the Fuzzy Cognitive Map
+
 This project is focused on finding the most influencing factor in boosting the happiness index in teens with the help of the Fuzzy Cognitive Map based on an expert’s opinion.
 
